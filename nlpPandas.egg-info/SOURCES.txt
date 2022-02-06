@@ -1,0 +1,11 @@
+license.txt
+setup.cfg
+setup.py
+nlp-pandas/__init__.py
+nlp-pandas/helper.py
+nlp-pandas/tester.py
+nlpPandas.egg-info/PKG-INFO
+nlpPandas.egg-info/SOURCES.txt
+nlpPandas.egg-info/dependency_links.txt
+nlpPandas.egg-info/requires.txt
+nlpPandas.egg-info/top_level.txt
