@@ -3,5 +3,5 @@ venv/
 dist/
 **/.DS_Store
 MANIFEST.in
-nlp-pandas.egg-info/
+nlpPandas.egg-info/
 build/

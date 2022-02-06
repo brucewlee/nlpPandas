@@ -34,5 +34,5 @@ nlpPandas does basic processing to an NLP dataset. Input a Pandas dataframe and 
 
 ### Install using pip
 ```shell
-pip install nlp-pandas
+pip install nlpPandas
 ```
